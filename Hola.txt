@@ -1,3 +1,0 @@
-alert("me amas")
-
-<p> me amas </p>
